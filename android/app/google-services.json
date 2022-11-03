@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "946662065596",
+    "firebase_url": "https://digital-library-3814f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "digital-library-3814f",
+    "storage_bucket": "digital-library-3814f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946662065596:android:5ed2bf02fabcb9b681d7b9",
+        "android_client_info": {
+          "package_name": "com.digital_library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946662065596-l4uc5ed82mku13ev2bo31o1tc6jn71ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApwIZzu9Dj4I4FVAnrJ5sCBvU46hv0pJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946662065596-l4uc5ed82mku13ev2bo31o1tc6jn71ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
